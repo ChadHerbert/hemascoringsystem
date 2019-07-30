@@ -1,0 +1,6 @@
+My HEMA Scoring System Plan!
+
+1. Get Github setup!
+2. Start exploring java options for database and interface.
+3. Build DB and Interface.
+
